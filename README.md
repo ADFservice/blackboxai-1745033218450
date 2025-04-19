@@ -20,8 +20,8 @@ Este projeto é um sistema web para chat com modelos LLM (Large Language Models)
 1. Clone este repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/ADFservice/blackboxai-1745033218450
+cd blackboxai-1745033218450
 ```
 
 2. Instale as dependências do Node.js:

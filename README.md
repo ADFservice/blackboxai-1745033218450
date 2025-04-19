@@ -57,7 +57,7 @@ node server.js
 2. Abra o navegador e acesse:
 
 ```
-http://localhost:3000
+http://localhost:3000 
 ```
 
 3. Na interface web, selecione o modelo LLM desejado e comece a conversar.
